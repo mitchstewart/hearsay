@@ -1,0 +1,6 @@
+node_modules
+*.DS_store
+*.log
+.firebaserc
+FactsApp-84ba02cc051f.json
+keys.json
